@@ -1,0 +1,29 @@
+# Portfolio-level Python dependencies detected from included notebooks and project files.
+# Some projects are coursework notebooks, so dependencies may need to be adjusted
+# based on the notebook being run and the local Python environment.
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+tensorflow
+keras
+torch
+torchvision
+opencv-python
+Pillow
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+alembic
+httpx
+redis
+celery
+sentence-transformers
+yfinance
+anthropic
+pytest
