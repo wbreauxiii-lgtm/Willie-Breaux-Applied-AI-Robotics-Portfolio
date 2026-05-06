@@ -26,7 +26,7 @@ The coursework uses notebook-based experiments. Each notebook walks through a co
 2. Open the notebooks in Jupyter or VS Code.
 3. Run one notebook at a time so dependencies and data paths can be checked.
 
-TODO: Confirm exact dataset download instructions for each notebook before public submission.
+
 
 ## Results / Output
 
