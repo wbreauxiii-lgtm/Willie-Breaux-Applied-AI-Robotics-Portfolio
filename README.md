@@ -10,7 +10,6 @@ I built this repository as a professional record of my learning journey. It is d
 
 - Student: Willie Breaux
 - Program: Applied AI and Robotics
-- Portfolio repository: TODO: Add public GitHub repository link after publishing
 - LinkedIn: Willie Breaux
 - Email: w.breauxiii@gmail.com
 
