@@ -28,7 +28,6 @@ The project documents module-by-module robotics activities, including setup, har
 2. Review `build_pptx.py` as the included script file.
 3. Use the PDF/PPTX presentation files as supporting school-submission artifacts.
 
-TODO: Add exact Raspberry Pi setup commands if a public reproducible robotics demo is created.
 
 ## Results / Output
 
