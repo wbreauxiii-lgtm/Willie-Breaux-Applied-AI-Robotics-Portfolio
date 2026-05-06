@@ -26,7 +26,7 @@ The project uses a notebook-driven workflow with supporting reports. The reports
 2. Review `original dataset.txt` for data notes or source information.
 3. Read the included PDF reports for methodology and results.
 
-TODO: Confirm whether the dataset file is complete enough to rerun the notebook or whether an external dataset link must be added.
+
 
 ## Results / Output
 
