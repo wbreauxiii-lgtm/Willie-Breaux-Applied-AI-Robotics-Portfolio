@@ -6,7 +6,7 @@ This is a public-safe placeholder for AI COGN / solo ITAI2376 work. The detailed
 
 ## Problem Statement
 
-TODO: Add a one-sentence public problem statement that does not reveal private architecture, prompts, product strategy, or implementation details.
+Decision makers facing complex, multi-factor problems often want more than a freeform answer from an LLM. They want a recommendation that names the options, weighs them against actual evidence, cites sources, and shows its reasoning in a form they can audit.
 
 ## Tools and Technologies
 
