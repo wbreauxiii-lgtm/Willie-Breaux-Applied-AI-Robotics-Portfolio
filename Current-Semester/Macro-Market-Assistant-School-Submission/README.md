@@ -34,9 +34,10 @@ No public executable demo is included in this repository. Private implementation
 
 ## Results / Output
 
-Public result: high-level portfolio documentation only.
+Public result: high-level portfolio documentation with school-submission presentation/demo artifacts.
 
-TODO: Add a sanitized screenshot or short demo video only if it does not reveal private product logic, system architecture, prompts, data sources, or strategy.
+- `MMA-Macro-Market-Assistant.pdf`
+- `MMA-demo-recording.mp4`
 
 ## What I Learned
 
@@ -49,6 +50,8 @@ TODO: Add a sanitized screenshot or short demo video only if it does not reveal 
 ## Files Included
 
 - `README.md`
+- `MMA-Macro-Market-Assistant.pdf`
+- `MMA-demo-recording.mp4`
 
 ## Notes / Limitations
 
