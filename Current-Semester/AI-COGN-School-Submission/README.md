@@ -24,11 +24,14 @@ The school-facing work included deeper planning and design documentation. This p
 
 ## How to Run
 
-No public run instructions are included. Add a sanitized demo only if it is safe for a public employer-facing repository.
+No public run instructions are included because implementation details are withheld. Review the included blueprint PDF and demo recording for the public school-submission view of the project.
 
 ## Results / Output
 
-Public result: high-level portfolio entry only.
+Public result: high-level portfolio entry with school-submission demo artifacts.
+
+- `AI-COGN-blueprint.pdf`
+- `AI-COGN-demo-recording.mp4`
 
 ## What I Learned
 
@@ -40,6 +43,8 @@ Public result: high-level portfolio entry only.
 ## Files Included
 
 - `README.md`
+- `AI-COGN-blueprint.pdf`
+- `AI-COGN-demo-recording.mp4`
 
 ## Notes / Limitations
 
