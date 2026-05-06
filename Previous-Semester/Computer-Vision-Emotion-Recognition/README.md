@@ -26,7 +26,7 @@ The folder preserves the existing computer vision portfolio materials: lab noteb
 2. Review the midterm and final project folders for project documentation.
 3. Use the included presentation/PDF files as the documented results from the course.
 
-TODO: Add exact dependency and dataset instructions for each notebook before final public submission.
+
 
 ## Results / Output
 
